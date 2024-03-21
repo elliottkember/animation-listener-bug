@@ -37,8 +37,9 @@ export default function App() {
       <Text />
 
       <Text>This square changes size:</Text>
+
       <Animated.View
-        key={key.toString()}
+        key={key}
         style={{
           transform: [{ scale: animatedValue }],
           backgroundColor: 'green',
