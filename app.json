@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "animation-listener-bug",
+    "slug": "animation-listener-bug",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "animation-listener-bug"
+}
